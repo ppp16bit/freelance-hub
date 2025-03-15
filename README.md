@@ -21,3 +21,5 @@ The platform will allow clients to register projects and freelancers to apply to
 - Cache to optimize frequent queries.
 - CI/CD with GitHub Actions or another tool.
 - Automated deployment to a cloud service.
+## Model (ER):
+![FREELANCER_HUB MODEL](https://github.com/user-attachments/assets/1b3c938b-5bcc-4217-a446-2394e6a6e2b6)
